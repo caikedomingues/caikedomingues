@@ -1,11 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Caike%20Domingues&fontSize=50&animation=fadeIn" width="100%"/>
-
 # caikedomingues
 
 Olá, eu sou Caike 👋
 
-- 💻 Estudante de Python, SQL, Análise de Dados, Automação e PHP
+- 💻 Estudante de Python, SQL, Análise de Dados, Automação e PHP 
 - 🖥️ Back-End
 - 🎓Técnologo em Análise e Desenvolvimento de Sistemas
 - 💼 Aberto a oportunidades em **Desenvolvimento de Software, Análise de Dados e Automação**
@@ -21,8 +19,5 @@ Olá, eu sou Caike 👋
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-F2C811?style=for-the-badge&logo=pandas&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caikedomingues&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caikedomingues&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+
 
