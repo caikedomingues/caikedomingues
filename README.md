@@ -1,7 +1,7 @@
 
 # caikedomingues
 
-Olá, eu sou Caike 👋
+Prazer, eu sou Caike 👋
 
 - 💻 Estudante de Python, SQL, Análise de Dados, Automação e PHP 
 - 🖥️ Back-End
