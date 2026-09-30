@@ -21,4 +21,8 @@ Prazer, eu sou Caike 👋
 ![Pandas](https://img.shields.io/badge/Pandas-F2C811?style=for-the-badge&logo=pandas&logoColor=white)
 
 
+### 🐍 Minhas Contribuições
+
+![Snake Animation](https://raw.githubusercontent.com/caikedomingues/caikedomingues/output/github-contribution-grid-snake-dark.svg)
+
 
