@@ -7,7 +7,7 @@ Prazer, eu sou Caike 👋
 - 🖥️ Back-End
 - 📖 Atualmente estou estudando PowerBI
 - 🎓Técnologo em Análise e Desenvolvimento de Sistemas
-- 💼 Aberto a oportunidades em **Desenvolvimento de Software, Análise de Dados e Automação**
+- 💼 Aberto a oportunidades como **Desenvolvedor de Software/Back-End Junior, Analista de Dados Junior e Desenvolvedor de Automações (Python) Junior**
 - 📫 Como me encontrar: **[caike.dom@gmail.com](mailto:caike.dom@gmail.com)**
 
 ### Conecte-se comigo:
